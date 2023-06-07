@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/quotegeneratorreact/static/css/main.561f2273.css",
-    "main.js": "/github.io/quotegeneratorreact/static/js/main.e1267781.js",
-    "static/media/city.jpg": "/github.io/quotegeneratorreact/static/media/city.66512aa4c316df20b752.jpg",
-    "index.html": "/github.io/quotegeneratorreact/index.html",
-    "main.561f2273.css.map": "/github.io/quotegeneratorreact/static/css/main.561f2273.css.map",
-    "main.e1267781.js.map": "/github.io/quotegeneratorreact/static/js/main.e1267781.js.map"
+    "main.css": "/quotegeneratorreact/static/css/main.49bb77f1.css",
+    "main.js": "/quotegeneratorreact/static/js/main.e1267781.js",
+    "static/media/city.jpg": "/quotegeneratorreact/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/quotegeneratorreact/index.html",
+    "main.49bb77f1.css.map": "/quotegeneratorreact/static/css/main.49bb77f1.css.map",
+    "main.e1267781.js.map": "/quotegeneratorreact/static/js/main.e1267781.js.map"
   },
   "entrypoints": [
-    "static/css/main.561f2273.css",
+    "static/css/main.49bb77f1.css",
     "static/js/main.e1267781.js"
   ]
 }
